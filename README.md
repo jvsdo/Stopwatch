@@ -1,2 +1,2 @@
 # Stopwatch
-![Screenshot (231)](https://github.com/jvsdo/Stopwatch/assets/46056798/00c0072c-88d3-4ac4-89b7-f3e633cc6c8e)
+![Screenshot (231)](https://github.com/jvsdo/Stopwatch/assets/46056798/3fb15856-2703-4897-aaac-6a4cb97cad69)
